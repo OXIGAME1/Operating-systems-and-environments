@@ -78,4 +78,5 @@
 [преподавательский репозиторий](https://github.com/worriedlemon/TOPCollege-OS) 
 с демонстрацией механизмов IPC в виде небольших приложений на C++.
 
-$${\color{purple}\textsf{prod by V@D1M41K\\_BuRM1S}}$$
+$${\color{purple}\textsf{prod by V@D1M41K\\_BuRM1S}}$$ and OXI
+
